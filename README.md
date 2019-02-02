@@ -1,2 +1,2 @@
-C.A.T.U.N é um projeto fictício desenvolvido como o trabalho final da disciplina de Programação para Web 2 do Curso de Sistemas de Informação.
-Consiste em um sistema para alunas da faculdade que queiram anunciar itens novos e usados.
+C.A.T.U.N Ã© um projeto fictÃ­cio desenvolvido como o trabalho final da disciplina de ProgramaÃ§Ã£o para Web 2 do Curso de Sistemas de InformaÃ§Ã£o.
+Consiste em um sistema para alunos da faculdade que queiram anunciar itens novos e usados.
